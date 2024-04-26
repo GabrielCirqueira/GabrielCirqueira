@@ -3,7 +3,7 @@
 
 ## Olá eu sou Gabriel Cirqueira, estou Trilhando o Caminho da Programação em busca de novos conhecimentos 😁
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLD-gabriel&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLD-gabriel&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Tecnologias que uso atualmente
  

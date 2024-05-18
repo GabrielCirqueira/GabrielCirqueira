@@ -2,8 +2,8 @@
 <img src="https://telegra.ph/file/0e4ce0e3645213bef81e3.jpg" target="_blank"> 
 
 ## Olá eu sou Gabriel Cirqueira, estou Trilhando o Caminho da Programação em busca de novos conhecimentos 😁
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OLD-gabriel&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OLD-gabriel&show_icons=true&theme=merko)
 
  ## Tecnologias que uso atualmente
  

@@ -6,6 +6,8 @@
 
 
 ## Olá eu sou Gabriel Cirqueira, estou Trilhando o Caminho da Programação em busca de novos conhecimentos 😁
+
+### 📊 Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCirqueira&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCirqueira&show_icons=true&theme=tokyonight)
 

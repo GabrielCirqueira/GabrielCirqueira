@@ -1,9 +1,16 @@
+
 ##
 <img src="https://telegra.ph/file/0e4ce0e3645213bef81e3.jpg" target="_blank"> 
 
+
+
+
 ## Olá eu sou Gabriel Cirqueira, estou Trilhando o Caminho da Programação em busca de novos conhecimentos 😁
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCirqueira&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCirqueira&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCirqueira&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCirqueira&show_icons=true&theme=tokyonight)
+
+##
+![Snake animation](https://github.com/GabrielCirqueira/GabrielCirqueira/blob/output/github-contribution-grid-snake.svg?color_snake=white&color_dots=#23e1e,#2d2d2d,#3a3a3a,#000000)
 
 ## Tecnologias que uso atualmente
 

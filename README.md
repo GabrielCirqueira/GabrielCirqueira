@@ -46,9 +46,9 @@
 
   ---
 
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCirqueira&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=9d4edd&line=9d4edd&point=ffffff" style="width: 100%; max-width: 800px;"/>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCirqueira&bg_color=00000000&hide_border=true&area=true&area_color=7e5bef33&color=9d4edd&line=9d4edd&point=bb9af7&title_color=9d70ff" style="width: 100%; max-width: 800px;"/>
+</div>
 
   ---
 

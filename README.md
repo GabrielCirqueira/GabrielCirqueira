@@ -9,6 +9,25 @@
   </div>
 
   ---
+  
+  ### 🌟 Conecte-se Comigo 🌟
+  
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+    <a href="https://linktr.ee/GabrielCirqueira" target="_blank">
+      <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=7E5BEF&color=1e1e2e" alt="Linktree" style="box-shadow: 0 4px 8px rgba(126, 91, 239, 0.3); border-radius: 8px;"/>
+    </a>
+    <a href="https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e&color=7E5BEF" alt="Portfólio" style="box-shadow: 0 4px 8px rgba(126, 91, 239, 0.3); border-radius: 8px;"/>
+    </a>
+  </div>
+  
+  <div align="center" style="background: linear-gradient(90deg, #1e1e2e, #7E5BEF, #1e1e2e); padding: 15px; border-radius: 12px; margin: 20px auto; max-width: 80%;">
+    <p style="color: white; font-size: 16px; margin: 0;">
+      💡 Explore meus projetos e conecte-se através dos links acima! 👆
+    </p>
+  </div>
+
+  ---
  
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCirqueira&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=9D70FF&icon_color=BB9AF7&text_color=CDD6F4&border_color=7E5BEF&border_radius=15"/>
@@ -33,7 +52,7 @@
 
   ---
 
-  ## Tecnologias que uso atualmente
+  ## 🛠️ Tecnologias que uso atualmente
 
   <div align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
@@ -55,6 +74,13 @@
     <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" target="_blank">
   </div>
+
+  ---
+
+  
+  [![Linktree](https://img.shields.io/badge/-Linktree-9D4EDD?style=for-the-badge&logo=linktree&logoColor=white&labelColor=1e1e2e&color=7E5BEF)](https://linktr.ee/GabrielCirqueira)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-7E5BEF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e&color=9D4EDD)](https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/)
+
 
   <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=120&section=footer&fontSize=90" style="width: 100%;"/>

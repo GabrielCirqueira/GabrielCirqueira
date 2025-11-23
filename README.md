@@ -4,15 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=180&section=header&fontSize=30&text=Gabriel+Cirqueira+Barbosa&fontColor=fff&animation=twinkling&fontAlignY=35" style="width: 100%;"/>
   </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&width=435&lines=%F0%9F%94%A7Automatizando+Processos;%F0%9F%9A%80Construindo+Solu%C3%A7%C3%B5es;%F0%9F%8E%A8UI%2FUX+Lover;%F0%9F%93%8AData-Driven;%F0%9F%A4%9DCollabora%C3%A7%C3%A3o+%C3%A9+Tudo;%F0%9F%93%9AComprometido+com+Qualidade;%F0%9F%8C%90Tech+Explorer;%F0%9F%93%9DDoc+%26+Tests+Fan;%F0%9F%95%93Always+Iterating"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
-
   ---
  
   <div align="center">
@@ -35,19 +26,15 @@
 ## 🛠️ Tecnologias que uso atualmente
 
 <div align="center">
-  <!-- Linguagens de Programação -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
 
-  <!-- Back-end / Frameworks -->
   <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" target="_blank">
 
-  <!-- Bancos de Dados e ORM -->
   <img src="https://img.shields.io/badge/Doctrine-4479A1?style=for-the-badge&logo=doctrine&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
 
-  <!-- Front-end / UI -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
@@ -55,11 +42,9 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" target="_blank">
 
-  <!-- Build, Containers e Infraestrutura -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
 
-  <!-- Ferramentas de Dev e CI/CD -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" target="_blank">
@@ -68,10 +53,8 @@
 
   ---
 
-  
   [![Linktree](https://img.shields.io/badge/-Linktree-9D4EDD?style=for-the-badge&logo=linktree&logoColor=white&labelColor=1e1e2e&color=7E5BEF)](https://linktr.ee/GabrielCirqueira)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-7E5BEF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e&color=9D4EDD)](https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/)
-
 
   <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=120&section=footer&fontSize=90" style="width: 100%;"/>

@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # roda todo dia à meia-noite
-  workflow_dispatch:        # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,54 +14,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # ── Stats Card ──────────────────────────────────────────────
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &hide_border=true
-            &bg_color=0d1117
-            &title_color=6EE7B7
-            &icon_color=6EE7B7
-            &text_color=c9d1d9
-            &count_private=true
+            username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── Top Languages Card ───────────────────────────────────────
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &hide_border=true
-            &bg_color=0d1117
-            &title_color=6EE7B7
-            &text_color=c9d1d9
+            username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── Streak Card ──────────────────────────────────────────────
       - name: Generate streak card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: DenverCoder1/github-readme-streak-stats@v2
         with:
-          card: streak
-          options: >-
-            username=${{ github.repository_owner }}
-            &hide_border=true
-            &background=0d1117
-            &ring=6EE7B7
-            &fire=6EE7B7
-            &currStreakLabel=6EE7B7
-          path: profile/streak.svg
+          user: ${{ github.repository_owner }}
+          background: "0d1117"
+          border: "0d1117"
+          ring: "6EE7B7"
+          fire: "6EE7B7"
+          currStreakLabel: "6EE7B7"
+          sideLabels: "c9d1d9"
+          dates: "c9d1d9"
+          currStreakNum: "ffffff"
+          sideNums: "ffffff"
+          output_path: profile/streak.svg
+        env:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── Snake Animation ──────────────────────────────────────────
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -70,7 +57,6 @@ jobs:
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
 
-      # ── Commit tudo ──────────────────────────────────────────────
       - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"

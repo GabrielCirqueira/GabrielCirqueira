@@ -1,62 +1,87 @@
-<div align="center" style="width:100%">
-
-  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=180&section=header&fontSize=30&text=Gabriel+Cirqueira+Barbosa&fontColor=fff&animation=twinkling&fontAlignY=35" style="width: 100%;"/>
-  </div>
-
-  ---
- 
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCirqueira&show_icons=true&theme=dracula&bg_color=1e1e2e&title_color=9D70FF&icon_color=BB9AF7&text_color=CDD6F4&border_color=7E5BEF&border_radius=15"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCirqueira&layout=donut&theme=dracula&bg_color=1e1e2e&title_color=9D70FF&text_color=CDD6F4&border_color=7E5BEF&border_radius=15"/>
-  </div>
-
-  ---
- 
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 600px; margin: 0 auto;">
-    </picture>
-  </div>
-
-  ---
-
-## 🛠️ Tecnologias que uso atualmente
-
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
 
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" target="_blank">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Gabriel+Cirqueira+Barbosa;Full+Stack+Developer;PHP+%7C+Symfony+%7C+TypeScript+%7C+React)](https://git.io/typing-svg)
 
-  <img src="https://img.shields.io/badge/Doctrine-4479A1?style=for-the-badge&logo=doctrine&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+<br/>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"> 
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" target="_blank">
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank">
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cirqueira-barbosa)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/GabrielCirqueira)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielcirqueira711@gmail.com)
 
 </div>
 
-  ---
+---
 
-  [![Linktree](https://img.shields.io/badge/-Linktree-9D4EDD?style=for-the-badge&logo=linktree&logoColor=white&labelColor=1e1e2e&color=7E5BEF)](https://linktr.ee/GabrielCirqueira)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-7E5BEF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e&color=9D4EDD)](https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/)
+## 👨‍💻 Sobre mim
 
-  <div align="center" style="width:100%; background: linear-gradient(to right, #1e1e2e, #7E5BEF, #1e1e2e); padding: 20px 0; margin-top: 20px; border-radius: 15px 15px 0 0;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7E5BEF&height=120&section=footer&fontSize=90" style="width: 100%;"/>
-  </div>
+```yaml
+name:     Gabriel Cirqueira Barbosa
+location: Pinheiros, ES — Brasil
+role:     Full Stack Developer
+company:  Moveis Simonetti
+focus:    Back-end · APIs REST · Interfaces modernas
+```
+
+Desenvolvedor apaixonado por tecnologia e programação. Busco constantemente desafios e oportunidades de aprendizado para evoluir no campo da tecnologia.
+
+---
+
+## 🛠️ Tecnologias
+
+**Back-end**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-4479A1?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+
+**DevOps & Ferramentas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="165em" src="./profile/stats.svg" alt="GitHub Stats"/>
+  <img height="165em" src="./profile/langs.svg" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+    <img alt="snake" src="./profile/snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>📍 Pinheiros, ES · gabrielcirqueira711@gmail.com</sub>
 </div>

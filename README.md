@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cirqueira-barbosa)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/GabrielCirqueira)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://v0-gabriel-cirqueira-portfolio-nxtgjq.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://cirqueira.com/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielcirqueira711@gmail.com)
 
 </div>
@@ -62,10 +62,6 @@ Desenvolvedor apaixonado por tecnologia e programação. Busco constantemente de
 <div align="center">
   <img height="165em" src="./profile/stats.svg" alt="GitHub Stats"/>
   <img height="165em" src="./profile/langs.svg" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak"/>
 </div>
 
 ---
